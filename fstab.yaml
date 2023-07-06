@@ -1,0 +1,7 @@
+# Notes:
+#
+# 1. The URL should be human readable as a path. It should not be a hash.
+# 2. Google Drive is no longer allowed for production Adobe projects.
+
+mountpoints:
+  /: https://drive.google.com/drive/folders/1_0l7iZfpnQIeh20GT9r-hOQHKG5KSf8N
